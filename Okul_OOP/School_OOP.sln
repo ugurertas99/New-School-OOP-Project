@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School_OOP", "Okul_OOP\School_OOP.csproj", "{F88FF928-B59C-4D60-888A-5E8A0501C476}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School.UI", "Okul.UI\School.UI.csproj", "{AE0307CA-7886-452D-BABA-8F6BD9FC58E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F88FF928-B59C-4D60-888A-5E8A0501C476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F88FF928-B59C-4D60-888A-5E8A0501C476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F88FF928-B59C-4D60-888A-5E8A0501C476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F88FF928-B59C-4D60-888A-5E8A0501C476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE0307CA-7886-452D-BABA-8F6BD9FC58E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE0307CA-7886-452D-BABA-8F6BD9FC58E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE0307CA-7886-452D-BABA-8F6BD9FC58E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE0307CA-7886-452D-BABA-8F6BD9FC58E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {160FD2F6-1CAC-44F8-9D71-717553BA5CF1}
+	EndGlobalSection
+EndGlobal

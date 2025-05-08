@@ -1,0 +1,6 @@
+C:\Users\ugur\source\repos\Okul_OOP\Okul_OOP\obj\Debug\School_OOP.csproj.AssemblyReference.cache
+C:\Users\ugur\source\repos\Okul_OOP\Okul_OOP\obj\Debug\School_OOP.csproj.CoreCompileInputs.cache
+C:\Users\ugur\source\repos\Okul_OOP\Okul_OOP\bin\Debug\Okul_OOP.dll
+C:\Users\ugur\source\repos\Okul_OOP\Okul_OOP\bin\Debug\Okul_OOP.pdb
+C:\Users\ugur\source\repos\Okul_OOP\Okul_OOP\obj\Debug\Okul_OOP.dll
+C:\Users\ugur\source\repos\Okul_OOP\Okul_OOP\obj\Debug\Okul_OOP.pdb
